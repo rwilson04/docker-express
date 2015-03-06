@@ -1,4 +1,4 @@
 FROM shinymayhem/node
 
 RUN \
-    npm install -g express
+    npm install express --save
